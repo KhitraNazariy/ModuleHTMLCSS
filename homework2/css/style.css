@@ -1,0 +1,26 @@
+p {
+    font-size: 20px;
+}
+.top_info {
+    text-align: center;
+    color: #eae6e6;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.top {
+    background-color: #9543e3;
+}
+.cen {
+    background-color: #29bb8a;
+    text-align: center;
+}
+.bottom {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+.bottom_info {
+    width: 400px;
+}
