@@ -1,0 +1,30 @@
+body {
+    padding: 100px;
+}
+.main_block {
+    border: 5px solid black;
+    width: 1300px;
+    height: 600px;
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.a {
+    width: 100%;
+    background-color: silver;
+    height: 200px;
+}
+.b_c {
+    display: flex;
+    margin-top: 10px;
+    height: 360px;
+}
+.b {
+    width: 70%;
+    background-color: silver;
+}
+.c {
+    width: 30%;
+    background-color: silver;
+    margin-left: 10px;
+}

@@ -1,0 +1,28 @@
+.width {
+    width: 600px;
+}
+.header {
+    height: 100px;
+    background-color: #1285ff;
+}
+.nav {
+    height: 60px;
+    background-color: #0c29ff;
+}
+.info {
+    display: flex;
+}
+.main {
+    width: 400px;
+    height: 300px;
+    background-color: #13b9ff;
+}
+.aside {
+    width: 200px;
+    height: 300px;
+    background-color: #9543e3;
+}
+.footer {
+    height: 80px;
+    background-color: #e221ff;
+}

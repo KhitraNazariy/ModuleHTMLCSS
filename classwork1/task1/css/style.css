@@ -1,0 +1,29 @@
+.silver {
+    background-color: silver;
+}
+.a {
+    width: 1000px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.footer_block {
+    display: flex;
+    column-gap: 20px;
+}
+.b {
+    width: 700px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.cde_blocks {
+    display: flex;
+    column-gap: 20px;
+}
+.cde_block {
+    width: 220px;
+    height: 200px;
+}
+.f {
+    width: 280px;
+    height: 420px;
+}

@@ -1,0 +1,20 @@
+.widgets {
+    width: 900px;
+    height: 300px;
+    background-color: #1285ff;
+}
+.widgets_blocks {
+    display: flex;
+    margin: 20px 0;
+    column-gap: 15px;
+}
+.widget {
+    width: 290px;
+    height: 200px;
+    background-color: #0c29ff;
+}
+.contact {
+    width: 900px;
+    height: 400px;
+    background-color: #1285ff;
+}
