@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.h80 {
+    height: 80px;
+}
+
+.wrap {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 100px;
+    background-color: #0C65A7;
+}
+
+.nav {
+    background-color: #124B78;
+}
+
+.content {
+    display: flex;
+    height: 500px;
+}
+
+.content__main {
+    flex-grow: 3;
+    background-color: #16A2C5;
+}
+
+.content__aside {
+    flex-grow: 1;
+    background-color: #5275AD;
+}
+
+.footer {
+    background-color: #7DCCE3;
+}

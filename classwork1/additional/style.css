@@ -70,4 +70,5 @@
 .footer {
     height: 100px;
     background-color: #9543e3;
+    flex-direction: column-reverse;
 }

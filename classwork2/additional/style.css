@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    background-color: #CED8E1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 80px;
+}
+
+.header_button {
+    width: 150px;
+    height: 40px;
+    background-color: #102B3C;
+    border-radius: 20px;
+}
+
+.header_icon {
+    display: flex;
+    column-gap: 30px;
+}
+
+.header_icon i {
+    font-size: 25px;
+}
