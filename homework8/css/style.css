@@ -1,0 +1,128 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+.header {
+    padding-top: 50px;
+    height: 100vh;
+    background: url("../img/hero image.png") no-repeat center/cover;
+}
+
+.header__nav {
+    column-gap: 23px;
+    margin-right: 15px;
+}
+
+.header__nav a {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.header__contact {
+    border-left: 1px solid #FFFFFF;
+    padding-left: 34px;
+    margin-right: 35px;
+}
+
+.phone_img i {
+    color: #FFFFFF;
+    margin-right: 7px;
+}
+
+.phone_number p, .header__contact_text{
+    color: #FFFFFF;
+}
+
+.header__button {
+    padding: 14px 19px;
+    background-color: #FF7400;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.header__main {
+    margin-top: 204px;
+}
+
+.header__title {
+    width: fit-content;
+}
+
+.header__title h2, h1 {
+    color: #D67E35;
+    font-family: 'Tinos', serif;
+}
+
+.header__title h2 {
+    font-size: 50px;
+    line-height: 57px;
+}
+
+.header__title h1 {
+    font-size: 80px;
+    line-height: 92px;
+}
+
+.header__title p {
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.header__title p::before, .header__title p::after {
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background: #C4C4C4;
+}
+
+.header__title p::before {
+    margin-right: 8px;
+}
+
+.header__title p::after {
+    margin-left: 8px;
+}
+
+.wrap {
+    column-gap: 31px;
+    top: -100px;
+}
+
+.card-info {
+    width: 349px;
+    height: 328px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-info img {
+    width: 111px;
+    height: 148px;
+    padding-top: 35px;
+}
+
+.card-info h3 {
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+    padding-bottom: 20px;
+}
+
+.card-info span {
+    color: #BC9060;
+    font-family: 'Tinos', serif;
+    font-size: 32px;
+}
+
+.card-info p {
+    font-size: 23px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    padding: 0 20px;
+}

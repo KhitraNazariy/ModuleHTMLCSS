@@ -1,0 +1,24 @@
+@media screen and (max-width: 400px){
+    .first-screen-left h1 {
+        font-size: 34px;
+        text-align: center;
+        margin-top: -70px;
+        margin-bottom: 0;
+    }
+
+    .first-screen-right img {
+        width: 380px;
+    }
+
+    .first-screen-left h2 {
+        text-align: center;
+    }
+
+    .info-img img {
+        width: 100%;
+    }
+
+    .info-description {
+        padding: 20px;
+    }
+}

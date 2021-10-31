@@ -1,0 +1,40 @@
+@media screen and (max-width: 400px) {
+    .header {
+        padding-top: 20px;
+    }
+
+    .header_logo img {
+        width: 60px;
+    }
+
+    .header__info {
+        display: none !important;
+    }
+
+    .header__mobile-btn {
+        display: block !important;
+    }
+
+    .header__mobile-btn i {
+        font-size: 35px;
+        color: #FF7400;
+    }
+
+    .header__main {
+        margin-top: 120px;
+    }
+
+    .header__title h2 {
+        font-size: 37px;
+    }
+
+    .header__title h1 {
+        font-size: 60px;
+    }
+
+    .wrap {
+        flex-direction: column;
+        row-gap: 20px;
+        align-items: center;
+    }
+}
